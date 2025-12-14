@@ -1,7 +1,5 @@
 # A2_G4_BPA
 
-# Project Deployment Guide
-
 ## 📦 Deployment Instructions
 
 To set up this project, please follow these steps for the model and forms:
@@ -29,7 +27,7 @@ When starting a new process instance, please include the following parameters:
   "birthApplicant": "14 december, 2025",
   "emailApplicant": "applicant email"
 }
+```
+🎥 Video
 
-🎥 Video Tutorial
-
-Click the link below to watch the walkthrough video: https://drive.google.com/file/d/1t0Q0SHaJ-lh0ieqMLskB20rnjojaHM3o/view?usp=sharing
+Click the link to watch the walkthrough video: https://drive.google.com/file/d/1t0Q0SHaJ-lh0ieqMLskB20rnjojaHM3o/view?usp=sharing
